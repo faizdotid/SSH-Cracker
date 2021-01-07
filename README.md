@@ -1,10 +1,5 @@
 # SSH-Cracker
 
-check login ssh from laravel config
+check login ssh from laravel config<br>how it works?
 
-how it works?
-
-
-python3 -m pip install paramiko
-
-python3 main.py yourlist.txt
+python3 -m pip install paramiko<br>python3 main.py yourlist.txt
