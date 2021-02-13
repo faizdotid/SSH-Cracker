@@ -81,4 +81,4 @@ if __name__ == '__main__':
         else:
             pass
         with ThreadPoolExecutor(max_workers=10) as exc:
-            exc.map(main, tar)
+            exc.map(main, target)
